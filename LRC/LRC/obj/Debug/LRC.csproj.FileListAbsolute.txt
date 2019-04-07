@@ -1,0 +1,7 @@
+D:\newfolders\NET\LRC\LRC\bin\Debug\LRC.exe.config
+D:\newfolders\NET\LRC\LRC\bin\Debug\LRC.exe
+D:\newfolders\NET\LRC\LRC\bin\Debug\LRC.pdb
+D:\newfolders\NET\LRC\LRC\obj\Debug\LRC.csprojAssemblyReference.cache
+D:\newfolders\NET\LRC\LRC\obj\Debug\LRC.csproj.CoreCompileInputs.cache
+D:\newfolders\NET\LRC\LRC\obj\Debug\LRC.exe
+D:\newfolders\NET\LRC\LRC\obj\Debug\LRC.pdb

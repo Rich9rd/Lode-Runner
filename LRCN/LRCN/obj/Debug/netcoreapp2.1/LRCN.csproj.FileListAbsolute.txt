@@ -1,0 +1,11 @@
+D:\newfolders\NET\LRCs\LRCN\LRCN\bin\Debug\netcoreapp2.1\LRCN.deps.json
+D:\newfolders\NET\LRCs\LRCN\LRCN\bin\Debug\netcoreapp2.1\LRCN.runtimeconfig.json
+D:\newfolders\NET\LRCs\LRCN\LRCN\bin\Debug\netcoreapp2.1\LRCN.runtimeconfig.dev.json
+D:\newfolders\NET\LRCs\LRCN\LRCN\bin\Debug\netcoreapp2.1\LRCN.dll
+D:\newfolders\NET\LRCs\LRCN\LRCN\bin\Debug\netcoreapp2.1\LRCN.pdb
+D:\newfolders\NET\LRCs\LRCN\LRCN\obj\Debug\netcoreapp2.1\LRCN.csprojAssemblyReference.cache
+D:\newfolders\NET\LRCs\LRCN\LRCN\obj\Debug\netcoreapp2.1\LRCN.csproj.CoreCompileInputs.cache
+D:\newfolders\NET\LRCs\LRCN\LRCN\obj\Debug\netcoreapp2.1\LRCN.AssemblyInfoInputs.cache
+D:\newfolders\NET\LRCs\LRCN\LRCN\obj\Debug\netcoreapp2.1\LRCN.AssemblyInfo.cs
+D:\newfolders\NET\LRCs\LRCN\LRCN\obj\Debug\netcoreapp2.1\LRCN.dll
+D:\newfolders\NET\LRCs\LRCN\LRCN\obj\Debug\netcoreapp2.1\LRCN.pdb

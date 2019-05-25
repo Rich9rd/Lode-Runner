@@ -36,9 +36,10 @@ namespace LRCN
         
         public void Add(User user)
         {            
-            if (user.Score > Table[Table.Length-1].Score)
+            if (user.Score > Table[0].Score)
             {
-                IsNewRecord = true;
+                if (user.Score > Table[Table.Length-1].Score)
+                    IsNewRecord = true;
                 Table[0] = user;
                 SortTable(Table);
             }

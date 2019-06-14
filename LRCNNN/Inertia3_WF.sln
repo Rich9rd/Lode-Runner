@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.645
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inertia3_WF", "Inertia3_WF\Inertia3_WF.csproj", "{CF4D6A8D-D88E-45E6-9F05-DBFFF030EAFB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CF4D6A8D-D88E-45E6-9F05-DBFFF030EAFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF4D6A8D-D88E-45E6-9F05-DBFFF030EAFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF4D6A8D-D88E-45E6-9F05-DBFFF030EAFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF4D6A8D-D88E-45E6-9F05-DBFFF030EAFB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9C4C51E5-8695-4155-AAE3-2BC7F2B34F27}
+	EndGlobalSection
+EndGlobal
